@@ -1,0 +1,122 @@
+body {
+    background-color: white;
+    font-size: 30px;
+    font-family: 'Dosis', sans-serif;
+    color: antiquewhite;
+}
+
+h1 {
+    color: antiquewhite;
+    font-size: 90px;
+    font-weight: bolder;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+}
+
+ul li {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+h2 {
+    color: lightblue;
+    font-weight: 300;
+}
+
+h3 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+address {
+    color: rgb(14, 100, 100);
+    text-align: left;
+}
+
+#map-address {
+    margin-top: 40 px;
+    padding-top: 20px;
+}
+
+#addresssection {
+    margin-top: 40 px;
+    padding-top: 20px;
+}
+
+#address {
+    line-height: 0.8em;
+}
+
+#advice h3 {
+    color: white;
+  text-emphasis-color: lightblue ;
+  
+}
+
+form {
+    color: lightblue;
+    padding: 20px;
+}
+
+.bg-image {
+    position: relative;
+}
+
+.iframe {
+    padding: 20px;
+
+}
+
+.mask h1 {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: centre; 
+    align-items: center;
+}
+
+
+.banner {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.banner img {
+    width: 100%;
+ 
+}
+
+.banner-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff; /* Text color */
+    padding: 20px;
+}
+
+.banner h3 {
+    font-size: 24px;
+}
+
+
+#footer {
+    font-size: 12px;
+    font-family: 'Dosis', sans-serif;
+}
+
+
+.navbar {
+    background-color: green;
+    font-size: 16px;
+    font-family: 'Dosis', sans-serif;
+    padding-left: 60px;
+}
+
+button {
+   background-color: green;
+}

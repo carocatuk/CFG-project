@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meet Our Dogs!</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<h1>Meet Our Dogs!</h1>
+
+<h2>Many dogs</h2>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio voluptate, voluptas adipisci reiciendis delectus eum illo odio! Voluptatum inventore aut quo dignissimos nam eaque, minima maxime aperiam ab tenetur quaerat. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio, eligendi rerum tempore accusamus beatae, ullam, quia sint adipisci ratione voluptatibus in voluptate voluptatem ipsum maxime repudiandae natus iure sunt aspernatur?</p>
+
+ <div class="container">
+  <div class="gallery">
+    <a target="_blank" href="img_5terre.jpg">
+      <img src="elliot.jpeg" class="rounded" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">Elliot</div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="img_forest.jpg">
+      <img src="mable.jpeg" class="rounded" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">Mabel</div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="img_lights.jpg">
+      <img src="milo.jpeg" class="rounded" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">Milo</div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="img_mountains.jpg">
+      <img src="peanut.jpeg" class="rounded" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Peanut</div>
+  </div>
+
+  <div class="gallery">
+    <a target="_blank" href="img_mountains.jpg">
+      <img src="percy.jpeg" class="rounded" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Percy</div>
+  </div>
+
+  <div class="gallery">
+    <a target="_blank" href="img_mountains.jpg">
+      <img src="romeo.jpeg" class="rounded" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Romeo</div>
+  </div>
+</div>
+
+  <div class="container">
+<table class="table">
+    <thead>
+<tr>
+<th>Name</th>
+<th>Age</th>
+<th>Breed</th>
+<th>Sex</th>
+<th>Favourite Thing</th>
+</tr>
+    </thead>
+    <tbody>
+<tr>
+<td>Elliot</td>
+<td>6 months</td>
+<td>Terrier</td>
+<td>Male</td>
+<td>Towels</td>
+</tr>
+
+<tr>
+    <td>Mabel</td>
+    <td>1 year 4 months</td>
+    <td>Pug</td>
+    <td>Female</td>
+    <td>Sticks</td>
+</tr>
+
+<tr>
+    <td>Milo</td>
+    <td>1 year</td>
+    <td>Dachshund</td>
+    <td>Male</td>
+    <td>Tennis balls</td>
+</tr>
+
+<tr>
+    <td>Peanut</td>
+    <td>3 years 4 months</td>
+    <td>Swiss Shepherd</td>
+    <td>Male</td>
+    <td>Puddles of water</td>
+</tr>
+
+<tr>
+    <td>Percy</td>
+    <td>10 years</td>
+    <td>Chihuahua mix</td>
+    <td>Male</td>
+    <td>Crinkle toys</td>
+</tr>
+
+<tr>
+    <td>Romeo</td>
+    <td>Chihuahua</td>
+    <td>9 years</td>
+    <td>Male</td>
+    <td>Soft pillows</td>
+</tr>
+
+    </tbody>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

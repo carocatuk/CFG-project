@@ -1,0 +1,60 @@
+body {
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 8pxpx;
+}
+
+h1 {
+    text-align: center;
+    color: #98afba;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    float: left;
+    width: 180px;
+    align-content: center;
+  }
+  
+  div.gallery:hover {
+    border: 1px color(srgb red green rgb(0, 0, 255));
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    background-color: #98afba;
+    text-align: center;
+    color: white;
+  }
+
+  div.container {
+    align-content: center;
+  }
+
+container mt-3 {
+    padding-top: 10px;
+  
+}
+
+.table {
+    padding: 10px;
+    border-style: solid;
+    border-radius: 10%;
+}
+
+.th {
+    text-align: center;
+}
+
+.navbar a:hover {
+  background-color: #C4E4F5;
+}
+.navbar a:active {
+  background-color: rgb(26, 24, 24);
