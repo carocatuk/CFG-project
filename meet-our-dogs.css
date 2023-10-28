@@ -1,13 +1,27 @@
 body {
-    padding-left: 10px;
-    padding-top: 20px;
-    padding-right: 8pxpx;
-    font-family: 'Dosis', sans-serif;
+   font-family: 'Dosis', sans-serif;
 }
 
+/*
+.headerimg {
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: -1;
+  border: 3px solid black;
+  opacity: 0.7;
+  align-items: center;
+}
+*/
+
+
 h1 {
-    text-align: center;
-    color: #98afba;
+
+}
+
+.headertext {
+  text-align: center;
+  color: #98afba;
+  font-size: medium;
 }
 
 div.gallery {
@@ -53,6 +67,7 @@ container mt-3 {
 .th {
     text-align: center;
 }
+
 
 .navbar a:hover {
   background-color: #C4E4F5;
