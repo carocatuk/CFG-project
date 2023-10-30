@@ -13,16 +13,13 @@ body {
 }
 */
 
-
-h1 {
-
-}
-
 .headertext {
   text-align: center;
   color: #98afba;
   font-size: medium;
-}
+  mask-position: 0cqb ;
+  .col-lg-3.col-md-13.col-sm-12.col-xs-12 
+ } 
 
 div.gallery {
     margin: 5px;
@@ -68,9 +65,13 @@ container mt-3 {
     text-align: center;
 }
 
-
+.nav-item {
+  font-family: "Dosis", sans-serif;
+  color: #354A54;
+  font-size: 18px;
+}
 .navbar a:hover {
-  background-color: #C4E4F5;
+  background-color: #98AFBA;
 }
 .navbar a:active {
   background-color: rgb(26, 24, 24);
@@ -83,3 +84,4 @@ container mt-3 {
 #footer a:active {
   background-color: #C4E4F5;
 }
+
