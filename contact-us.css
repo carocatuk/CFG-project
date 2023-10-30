@@ -7,7 +7,7 @@ body {
 }
 
 .navbar {
-    background-color: #C4E4F5;
+    
 }
 .nav-item {
     font-family: "Dosis", sans-serif;
@@ -15,22 +15,24 @@ body {
     font-size: 18px;
 }
 .navbar a:hover {
-    background-color: #98AFBA;
-  }
-  .navbar a:active {
-    background-color: rgb(26, 24, 24);
-  }
-  
-
-  #footer a:hover {
     background-color: #C4E4F5;
-  }
+    
+}
+
+.navbar a:active {
+    background-color:#354a54;
+}
+
+.navbar {
+    padding-bottom: 10px;
+    font-size: 20px;
+}
   #footer a:active {
     background-color: #C4E4F5;
   }
 
 h1 {
-    color: #C4E4F5;
+    color: fff;
     font-size: 90px;
     font-weight: bolder;
     padding: 20px;
@@ -157,14 +159,9 @@ address {
 }
 
 
-
-
-
 .btn {
     --bs-btn-padding-x: 3rem;
     --bs-btn-padding-y: 1rem; }
-
-
 
 #imgbanner {    
      padding-left: 0; 
