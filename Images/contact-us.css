@@ -1,0 +1,255 @@
+body {
+    background-color: white;
+    font-size: 30px;
+    font-family: 'Dosis', sans-serif;
+    color: #354A54; 
+    ;
+}
+
+.navbar {
+    
+}
+.nav-item {
+    font-family: "Dosis", sans-serif;
+    color: #354A54;
+    font-size: 18px;
+}
+.navbar a:hover {
+    background-color: #C4E4F5;
+    
+}
+
+.navbar a:active {
+    background-color:#354a54;
+}
+
+.navbar {
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+  #footer a:active {
+    background-color: #C4E4F5;
+  }
+
+h1 {
+    color: fff;
+    font-size: 90px;
+    font-weight: bolder;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+}
+
+ul li {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+h2 {
+   color : #354A54; 
+    font-weight: 300;
+}
+
+h3 {
+    color:#354A54; 
+    ;
+}
+
+p {
+    color: #354A54; 
+    ;
+}
+address {
+    color:#354A54; 
+    text-align: left;
+}
+
+#map-address {
+    margin-top: 40 px;
+    padding-top: 20px;
+}
+
+#addresssection {
+    margin-top: 40 px;
+    padding-top: 20px;
+}
+
+
+
+#address {
+    line-height: 0.8em;
+}
+
+#address-title {
+    color: #354A54;
+    text-decoration: solid;
+}
+
+#advice h3 {
+    color: white;
+  text-emphasis-color: lightblue ;
+  
+}
+
+.form {
+    color:  #354A54;
+    padding: 20px;
+    background-color: #98AFBA;
+}
+
+
+.custom-button {
+    background-color: #354A54;
+    color: white;
+    border: none;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+ }
+
+
+
+ .custom-button:hover {
+    background-color: #C4E4F5; /* Hover color */
+    color: #354A54;
+}
+
+.bg-image {
+    position: relative;
+}
+
+.iframe {
+    padding: 20px;
+
+}
+
+.mask h1 {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: centre; 
+    align-items: center;
+}
+
+
+.banner {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+#textbanner {
+    background-color: #C4E4F5;
+    
+}
+
+#textbanner h1 {
+    color: #354A54;
+    
+}
+
+#title img {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 50%;
+}
+
+
+.btn {
+    --bs-btn-padding-x: 3rem;
+    --bs-btn-padding-y: 1rem; }
+
+#imgbanner {    
+     padding-left: 0; 
+     padding-right: 0;
+    background-color: #C4E4F5;}
+/* Test 
+.banner img {
+    width: 100%;
+    display: block;
+ 
+} */
+
+.banner-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   color: #354A54; /* Text color */
+    padding: 0px;
+}
+
+
+#textbox {
+    background-color: rgb(196, 228, 245);
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+#textbox h3 {
+    font-size: 24px;
+    color: #354A54;
+
+}
+
+#contactinfo {
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+#message {
+    margin-bottom: 20px;
+}
+
+
+.label {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+        }
+    
+
+@media screen and (max-width: 1400px) {
+    /* Tablet styles go here */
+   
+
+.mt-4 {
+    margin-top: 0em !important;
+    margin-bottom: 0em;
+}
+
+.p-5 {
+    padding-top: 0rem!important;
+    padding-bottom: 1rem;
+}
+
+#map-address .col-md-6 {
+    width: 100%;
+    
+  }
+
+  #addresssection .col-md-6 {
+    width: 100%;
+  }  
+
+    }
+
+/* Media query for desktop screens */
+@media (min-width: 1138px) {
+    #title .img {
+       max-width: 100% ;
+        height: 100px; /* Adjust the desired height for desktop screens */
+    
+    }
+}
+
+
+    
