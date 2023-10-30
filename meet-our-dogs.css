@@ -1,25 +1,27 @@
 body {
    font-family: 'Dosis', sans-serif;
+   font-size: 20px;
 }
 
-/*
-.headerimg {
-  background-size: contain;
-  background-repeat: no-repeat;
-  z-index: -1;
-  border: 3px solid black;
-  opacity: 0.7;
-  align-items: center;
-}
-*/
+ h1 {
+  font-size: 90px;
+  font-weight: bolder;
+   }
 
-.headertext {
-  text-align: center;
-  color: #98afba;
-  font-size: medium;
-  mask-position: 0cqb ;
-  .col-lg-3.col-md-13.col-sm-12.col-xs-12 
- } 
+h2 {
+padding-top: 30px;
+text-align: center;
+} 
+
+h3 {
+  font-size: 90px;
+  color: #C4E4F5 ;
+}
+
+div.container-fluid {
+  margin-left: 20%;
+}
+
 
 div.gallery {
     margin: 5px;
